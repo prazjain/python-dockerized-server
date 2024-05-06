@@ -1,0 +1,4 @@
+#Ignore patterns
+
+# removing ignore of virtual environment temporarily
+#.venv 
